@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  ToDoList
+
+  Created by Эля Корельская on 08.08.2025.
+  
+*/
+"Back" = "  Назад";
+"SearchPlaceholder" = "Поиск задач";
+"ErrorLoadingTitle" = "Ошибка загрузки данных";
+"Ok" = "ОК";
+"Edit" = "Редактировать";
+"Share" = "Поделиться";
+"Delete" = "Удалить";
+"NewTaskTitle" = "Новая задача";
+"NewTaskDescription" = "Задайте описание новой задаче";
+"TasksNavTitle" = "Задачи";
+"Task" = "Задача";
+"Tasks" = "задач";

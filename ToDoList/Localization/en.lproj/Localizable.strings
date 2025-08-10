@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  ToDoList
+
+  Created by Эля Корельская on 08.08.2025.
+  
+*/
+"Back" = "  Back";
+"SearchPlaceholder" = "Search tasks";
+"ErrorLoadingTitle" = "Data load error";
+"Ok" = "OK";
+"Edit" = "Edit";
+"Share" = "Share";
+"Delete" = "Delete";
+"NewTaskTitle" = "New task";
+"NewTaskDescription" = "Provide a description for the new task";
+"TasksNavTitle" = "Tasks";
+"Task" = "Task";
+"Tasks" = "tasks";
