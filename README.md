@@ -28,6 +28,7 @@
 Interactor, Presenter, Entity, Router.
 
 <img src="images/ru_tasks.jpeg" alt="Экран заданий" width="200"> <img src="images/ru_actions.jpeg" alt="Действия с заданиями" width="200"> <img src="images/ru_speech.jpeg" alt="Микрофон" width="200"> <img src="images/en_tasks.jpeg" alt="Смена языка" width="200">
+<img src="images/en_edit.jpeg" alt="Экран редактирования" width="200">
 
 
 
